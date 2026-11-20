@@ -299,6 +299,6 @@ it impossible to tell what is causing a problem if something breaks.
 
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
-*rust-peak · Updated 2026-11-11 · Shared under the MIT License*
+*rust-peak · Updated 2026-11-20 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-11 -->
+<!-- last reviewed 2026-11-20 -->
